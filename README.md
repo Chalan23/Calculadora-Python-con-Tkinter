@@ -17,3 +17,5 @@ Calculadora moderna desarrollada con Python y Tkinter. Permite realizar operacio
 1. Clona el repositorio:
    
 2. Ejecuta el archivo:
+
+![Image Alt](https://github.com/Chalan23/Calculadora-Python-con-Tkinter/blob/3123b550cc191e6c32d606440b5015ee9bb115f3/calculadora.png)
